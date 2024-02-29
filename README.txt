@@ -2,8 +2,10 @@ first commit
 
 second commit
 
-first commi branch-A
+first commit branch-A
 
-second commi branch-A
+second commit branch-A
 
-first commi master
+first commit master
+
+second commit master
